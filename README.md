@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1> Hello there!</h1>
-
+<a>https://www.linkedin.com/in/italo-s-ventura-/<a>
 <!--
 **Raykartsch/Raykartsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
