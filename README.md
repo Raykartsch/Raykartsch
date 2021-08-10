@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <h1> Hello there!</h1>
-<a>https://www.linkedin.com/in/italo-s-ventura-/<a>
+<a href="https://www.linkedin.com/in/italo-s-ventura-/">
+  <img src="https://www.google.com/search?        q=linkedin+login&client=opera&hs=iSc&sxsrf=ALeKk02YMdB0cJ2Y6DvpBTZk4BXssJgJfQ:1628628780537&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjd27z_qqfyAhULRzABHSqUCqUQ_AUoBHoECAEQBg&biw=1326&   bih=627#imgrc=gSPfQZA0L_DgpM">
+  <a>
 <!--
 **Raykartsch/Raykartsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
