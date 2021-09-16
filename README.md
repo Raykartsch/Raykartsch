@@ -6,7 +6,7 @@
 <a>
   
  <a href="https://www.kaggle.com/italoventura/account">
-  <img src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" height=40 width=40 margin=2>
+  <img src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" height=40 width=40 style="margin:15px">
 <a>
 
 <!--
