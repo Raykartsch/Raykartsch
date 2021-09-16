@@ -3,7 +3,12 @@
 <h1> Hello there!</h1>
 <a href="https://www.linkedin.com/in/italo-s-ventura-/">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height=40 width=40>
-  <a>
+<a>
+  
+ <a href="https://www.kaggle.com/italoventura/account">
+  <img src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" height=40 width=40>
+<a>
+
 <!--
 **Raykartsch/Raykartsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
